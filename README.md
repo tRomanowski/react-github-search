@@ -1,10 +1,3 @@
-## Starter Project
-
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
-
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
